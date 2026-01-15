@@ -48,8 +48,6 @@ Built using the **ESP32 microcontroller**, ARYA is capable of voice interaction,
 - **TTS Engine** (Google / Local TTS)
 - **Wi-Fi Communication**
 - **JSON APIs**
-- **C / C++ (Arduino)**
+- **C / C++ (Arduino IDE)**
 
 ---
-
-## 📐 System Architecture
